@@ -44,6 +44,9 @@
 
   user-select: none;
 }
+pre {
+  font-family: "Roboto";
+}
 
 .WordBox {
   max-width: 400px;
