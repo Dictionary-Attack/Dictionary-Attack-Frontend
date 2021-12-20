@@ -7,6 +7,7 @@ Dictionary Attack is a web game application made for our Web Engineering class.
 - Enter the super word that is formed by all the letters and you immediately win
 - Points are determined based on length of word
 - Time increases as more words are entered
+- For your score to be counted, enter a username in the area given
 
 ## Rules
 - Plural versions of a word are not allowed
